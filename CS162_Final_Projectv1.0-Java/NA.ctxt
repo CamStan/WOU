@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=title
+comment0.target=NA(java.lang.String)
+comment0.text=\r\n\ Default\ constructor\ that\ creates\ a\ new\ NA\ book\ with\ a\ title\ and\ genre.\r\n\ @param\ title\ The\ title\ of\ the\ book.\r\n\ @param\ genre\ The\ genre\ of\ the\ book.\r\n
+comment1.params=title\ totalCount\ totalTime
+comment1.target=NA(java.lang.String,\ long,\ long)
+comment1.text=\r\n\ Non-default\ constructor\ that\ creates\ an\ already\ going\ NA\ book\ with\ the\ input\ amount\r\n\ of\ total\ word\ count\ and\ time\ already\ spent\ on\ the\ project.\r\n\ @param\ title\ The\ title\ of\ the\ book.\r\n\ @param\ totalCount\ The\ total\ word\ count\ already\ put\ into\ the\ project.\r\n\ @param\ totalTime\ The\ total\ amount\ of\ time\ (in\ minutes)\ already\ spent\ on\ the\ project.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ Gets\ the\ title\ of\ the\ book.\r\n\ @return\ The\ title\ of\ the\ book.\r\n
+comment3.params=newTitle
+comment3.target=void\ setTitle(java.lang.String)
+comment3.text=\r\n\ Sets\ the\ title\ of\ the\ book.\r\n\ @param\ newTitle\ The\ new\ title\ of\ the\ book.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getGenre()
+comment4.text=\r\n\ Gets\ the\ genre\ of\ the\ book.\r\n\ @return\ The\ genre\ of\ the\ book.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ The\ toString\ for\ Book.\r\n\ @return\ The\ toString\ for\ Book.\r\n
+numComments=6
